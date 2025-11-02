@@ -13,5 +13,7 @@ Nomes em ordem:
 <img width="1194" height="344" alt="image" src="https://github.com/user-attachments/assets/a7bc42a0-e342-4027-ac14-7cc9eddf6fa6" />
 
 Funcionando:
+
+
 <img width="603" height="474" alt="image" src="https://github.com/user-attachments/assets/8a7176fa-f618-4a9f-bfba-7eb5a8203c38" />
 <img width="822" height="238" alt="image" src="https://github.com/user-attachments/assets/a9205fb0-4af9-4a77-8cf6-848874a21189" />
